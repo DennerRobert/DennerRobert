@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 
 <div>
-  <a href="">
+	<a href="">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DennerRobert&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerRobert&layout=compact&theme=chartreuse-dark"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DennerRobert&show_icons=true&theme=chartreuse-dark"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerRobert&layout=compact&theme=chartreuse-dark"/>
 </div>
 
 ##
@@ -44,8 +44,9 @@ Here are some ideas to get you started:
 ##
 
 <div>
-  <a href="mailto:dennerrobert94@gmail.com"><img align="center" height=25" width=80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-
+	<a href="mailto:dennerrobert94@gmail.com"><img align="center" height=30" width=90" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+	<a href=""><img align="center" height=30" width=90" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+	<a href=""><img align="center" height=30" width=90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
   
 ##
