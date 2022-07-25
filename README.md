@@ -20,14 +20,15 @@ Here are some ideas to get you started:
 
 
 height="180em"
+height="30%" width="50%"
 -->
 
 
 <div>
  <a href="">
 
- <img height="30%" width="50%" src="https://github-readme-stats.vercel.app/api?username=DennerRobert&show_icons=true&theme=chartreuse-dark"/>
- <img height="30%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerRobert&layout=compact&theme=chartreuse-dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DennerRobert&show_icons=true&theme=chartreuse-dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerRobert&layout=compact&theme=chartreuse-dark"/>
 </div>
 
 ##
