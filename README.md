@@ -1,7 +1,7 @@
 ### Olá, eu sou Denner Robert!! 👋
 
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho com back-end python e framework django
 - 🌱 Atualmente estudando React
 
 
