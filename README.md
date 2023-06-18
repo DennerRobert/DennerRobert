@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com back-end python e framework django
-- 🌱 Atualmente estudando React
+- 🌱 Atualmente estudando Django REST framework
 
 
 <!--
@@ -26,7 +26,7 @@ height="30%" width="50%"
 <div>
  <a href="">
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DennerRobert&show_icons=true&theme=chartreuse-dark"/>
+ <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DennerRobert&show_icons=true&theme=chartreuse-dark"/>-->
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerRobert&layout=compact&theme=chartreuse-dark"/>
 </div>
 
