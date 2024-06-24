@@ -1,9 +1,12 @@
 ### Olá, eu sou Denner Robert!! 👋
 
 
-- 🔭 Hoje trabalho com back-end python e framework django
-- 🌱 Atualmente estudando Django REST framework
-
+- Desenvolvedor Backend python e framework django
+- Estudando API Restfull e posteriormente testes TDD (Test Driven Development)
+- Projetos disponíveis em: https://github.com/DennerRobert?tab=projects
+- Contato e-mail: dennerobert@hotmail.com
+- Whatsapp: https://wa.me/84994841662
+- Minha experiências: https://www.linkedin.com/in/denner-robert-dev/
 
 <!--
 **DennerRobert/DennerRobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +37,7 @@ height="30%" width="50%"
   
 <div style="display: inline_block"><br>
  <img align="center" alt="Denner-pytohn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img align="center" alt="Denner-pytohn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<!--  <img align="center" alt="Denner-pytohn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
  <img align="center" alt="Denner-pytohn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
  <img align="center" alt="Denner-pytohn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
  <img align="center" alt="Denner-pytohn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -43,15 +46,16 @@ height="30%" width="50%"
  <img align="center" alt="Denner-pytohn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
  <img align="center" alt="Denner-pytohn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="center" alt="Denner-pytohn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg">
+ <img align="center" alt="Denner-pytohn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
 </div>
   
 ##
-
+<!-- 
 <div>
  <a href="mailto:dennerrobert94@gmail.com"><img align="center" height="30" width="90" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  <a href=""><img align="center" height="30" width="90" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
  <a href=""><img align="center" height="30" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 		
 </div>
-
+ -->
  
