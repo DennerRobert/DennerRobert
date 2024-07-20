@@ -2,7 +2,7 @@
 
 
 - Desenvolvedor Backend python e framework django
-- Estudando API Restfull e posteriormente testes TDD (Test Driven Development)<!--- Projetos disponíveis em: https://github.com/DennerRobert?tab=projects-->
+- Estudando API Restfull e testes TDD (Test Driven Development)<!--- Projetos disponíveis em: https://github.com/DennerRobert?tab=projects-->
 - Contato e-mail: dennerobert@hotmail.com
 - Whatsapp: https://wa.me/84994841662
 - Minha experiências: https://www.linkedin.com/in/denner-robert-dev/
